@@ -1,7 +1,7 @@
 ---
-title: Hello, Valaxy!
-date: 2022-04-01
-updated: 2022-04-01
+title: QWQWQWQQ
+date: 2025-04-01
+updated: 2025-04-01
 categories: Valaxy 笔记
 tags:
   - valaxy
@@ -11,10 +11,8 @@ top: 1
 
 ## Valaxy
 
-Next Generation Static Blog Framework.
-
-Write your first post!
+QWQWQWQWQWWQWQWQWQWQWWQQW
 
 ## Usage
 
-Modify `valaxy.config.ts` to custom your blog.
+QWQWWQQWQWQWWQWWQWQWQWQW
