@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "浮生如梦 の 博客",
+    "home_page_url": "https://smallawqwq.github.io/",
+    "feed_url": "https://smallawqwq.github.io/feed.json",
+    "description": "浮生如梦，梦里花落知多少",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "浮生如梦",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://smallawqwq.github.io/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>QWQWQWQWQWWQWQWQWQWQWWQQW</p>\n<h2>Usage</h2>\n<p>QWQWWQQWQWQWWQWWQWQWQWQW</p>\n<br/><p>访问 <a href=\"https://smallawqwq.github.io/posts/hello-valaxy\" target=\"_blank\">https://smallawqwq.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://smallawqwq.github.io/posts/hello-valaxy",
+            "title": "QWQWQWQQ",
+            "date_modified": "2025-04-01T00:00:00.000Z",
+            "date_published": "2025-04-01T00:00:00.000Z",
+            "author": {
+                "name": "浮生如梦",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
