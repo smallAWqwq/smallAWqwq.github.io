@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: '浮生如梦の博客',
     },
 
     pages: [
@@ -38,7 +38,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     footer: {
       since: 2016,
       beian: {
-        enable: true,
+        enable: false,
         icp: '苏ICP备17038157号',
       },
     },
